@@ -30,6 +30,14 @@ Cognizant is a multinational corporation that provides IT services, including di
 SAP Labs is known for its employee-friendly policies and offers roles for Java developers. Their interview process is generally considered to be of moderate difficulty, focusing on both technical expertise and cultural fit. citeturn0search0
 :::
 
+* Recro
+* Turing
+* Millennium
+* Persistent Systems
+
+
+
+
 **Tips to Prepare:**
 
 - **Understand the Interview Process:** Research the specific interview process of the company you're applying to, as it can vary.
